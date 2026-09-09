@@ -8,7 +8,6 @@ A powerful, free machine learning system that automatically classifies support t
 
 ## Features
 
--  **100% FREE** - No credit card required
 -  **Llama 3.3 Model** - State-of-the-art LLM for classification
 -  **Fast Processing** - Quick ticket analysis
 -  **EDA Included** - Complete data exploration
