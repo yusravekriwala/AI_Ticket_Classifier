@@ -41,7 +41,7 @@ AI_Support_Ticket_Classifier/
 ###  Clone the Repository
 
 ```bash
-git clone https://github.com/yusravekriwala/AI_Support_Ticket_Classifier
+git clone https://github.com/yusravekriwala/AI_Ticket_Classifier
 cd AI_Support_Ticket_Classifier
 ```
 
